@@ -1,0 +1,4 @@
+- MYSQL_ROOT_PASSWORD=root
+- MYSQL_DATABASE=lamp_bd
+- MYSQL_USER=lamp_user
+- MYSQL_PASSWORD=lamp_password
